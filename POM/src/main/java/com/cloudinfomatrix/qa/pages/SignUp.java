@@ -1,5 +1,7 @@
 package com.cloudinfomatrix.qa.pages;
 
-public class SignUp {
+import com.cloudinfomatrix.qa.base.TestBase;
+
+public class SignUp extends TestBase{
 
 }

@@ -1,5 +1,7 @@
 package com.cloudinfomatrix.qa.pages;
 
-public class HomePage {
+import com.cloudinfomatrix.qa.base.TestBase;
+
+public class HomePage extends TestBase{
 
 }

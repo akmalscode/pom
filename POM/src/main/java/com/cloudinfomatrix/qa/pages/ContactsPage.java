@@ -1,5 +1,7 @@
 package com.cloudinfomatrix.qa.pages;
 
-public class ContactsPage {
+import com.cloudinfomatrix.qa.base.TestBase;
+
+public class ContactsPage extends TestBase{
 
 }
